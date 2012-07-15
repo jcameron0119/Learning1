@@ -1,0 +1,4 @@
+Logfile initialized
+[INFO] logfile = C:\Users\jcameron.QDATADEN\My Documents\Titanium Studio Workspace\Learning1\build.log
+[DEBUG] C:\Users\jcameron.QDATADEN\AppData\Roaming\Titanium\mobilesdk\win32\2.1.0.GA\android\builder.py simulator Learning1 C:\Android C:\Users\jcameron.QDATADEN\My Documents\Titanium Studio Workspace\Learning1 com.expertig.learning1 2 WVGA854
+[ERROR] Error locating JDK: set $JAVA_HOME or put javac and jarsigner on your $PATH
